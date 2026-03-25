@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-bold">Fish Hook</h3>
             <p className="text-sm text-muted-foreground">
-              Banda de Rock integrada por Ossie Chacón, Alonso Vargas, Manuel Calleros y Daniel Vargas nacida en Chihuahua, Chihuahua México con un estilo de rock clásico y progresivo.
+              Banda de Rock integrada por Ossie Chacón, Alonso Vargas y Daniel Vargas nacida en Chihuahua, Chihuahua México con un estilo de rock clásico y progresivo.
             </p>
           </div>
           <div className="space-y-4">
