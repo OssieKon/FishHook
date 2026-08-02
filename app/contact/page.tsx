@@ -34,7 +34,7 @@ export default function ContactPage() {
       color: "bg-pink-600",
       hoverColor: "hover:bg-pink-700",
       textColor: "text-pink-600",
-      link: "https://www.instagram.com/fishhookbandmx/",
+      link: "https://www.instagram.com/thefishhookbandmx/",
     },
     {
       name: "YouTube",
@@ -43,7 +43,7 @@ export default function ContactPage() {
       color: "bg-red-600",
       hoverColor: "hover:bg-red-700",
       textColor: "text-red-600",
-      link: "https://www.youtube.com/@FishHookBandMx",
+      link: "https://www.youtube.com/@TheFishHookBand",
     },
     {
       name: "Tik Tok",
@@ -52,16 +52,16 @@ export default function ContactPage() {
       color: "bg-indigo-600",
       hoverColor: "hover:bg-indigo-700",
       textColor: "text-indigo-600",
-      link: "https://www.tiktok.com/@fishhookband",
+      link: "https://www.tiktok.com/@thefishhookband",
     },
     {
       name: "Spotify",
       icon: <FaSpotify className="h-8 w-8 text-green-600" />,
-      description: "Escucha nuestra música original en Spotify",
+      description: "Escucha nuestra música en Spotify",
       color: "bg-green-600",
       hoverColor: "hover:bg-green-700",
       textColor: "text-green-600",
-      link: "https://open.spotify.com/intl-es/artist/5We27ylV1cDCHbBbeCcN5j?si=Sdnpf7vVTOa24SRL74aRbw",
+      link: "https://open.spotify.com/intl-es/artist/6HplwIY5Ds79j9irVQzlaE?si=tkYKRsShT36PDHiJwDUuKQ",
     },
   ];
 

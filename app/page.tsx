@@ -86,7 +86,7 @@ export default function Home() {
           <div className="reveal-text-block">
             <h1 className="text-white- text-xl sm:text-2xl md:text-3xl font-bold leading-snug tracking-wide" >
 
-              Encendiendo la escena del rock en México 
+              El Rock Clásico Vive Aquí 
             </h1>
           </div>
           <motion.div

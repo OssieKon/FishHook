@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-bold">Fish Hook</h3>
             <p className="text-sm text-muted-foreground">
-              Banda de Rock integrada por Ossie Chacón, Alonso Vargas, Manuel Calleros y Daniel Vargas nacida en Chihuahua, Chihuahua México con un estilo de rock clásico y progresivo.
+              Banda de Rock integrada por Ossie Chacón, Alonso Vargas y Daniel Vargas nacida en Chihuahua, Chihuahua México con un estilo de rock clásico y progresivo.
             </p>
           </div>
           <div className="space-y-4">
@@ -41,19 +41,19 @@ export default function Footer() {
                 <Facebook className="h-5 w-5" />
                 <span className="sr-only">Facebook</span>
               </Link>
-              <Link href="https://www.instagram.com/fishhookbandmx/" target="_blank" className="text-muted-foreground hover:text-primary">
+              <Link href="https://www.instagram.com/thefishhookbandmx/" target="_blank" className="text-muted-foreground hover:text-primary">
                 <Instagram className="h-5 w-5" />
                 <span className="sr-only">Instagram</span>
               </Link>
-              <Link href="https://www.tiktok.com/@fishhookband" target="_blank" className="text-muted-foreground hover:text-primary">
+              <Link href="https://www.tiktok.com/@thefishhookband" target="_blank" className="text-muted-foreground hover:text-primary">
                 <FaTiktok className="h-5 w-5" />
                 <span className="sr-only">Tiktok</span>
               </Link>
-              <Link href="https://www.youtube.com/@FishHookBandMx" target="_blank" className="text-muted-foreground hover:text-primary">
+              <Link href="https://www.youtube.com/@TheFishHookBand" target="_blank" className="text-muted-foreground hover:text-primary">
                 <Youtube className="h-5 w-5" />
                 <span className="sr-only">YouTube</span>
               </Link>
-              <Link href="https://open.spotify.com/intl-es/artist/5We27ylV1cDCHbBbeCcN5j?si=Sdnpf7vVTOa24SRL74aRbw" target="_blank" className="text-muted-foreground hover:text-primary">
+              <Link href="https://open.spotify.com/intl-es/artist/6HplwIY5Ds79j9irVQzlaE?si=v3twwXHGQk-mKFFPzKTh6g" target="_blank" className="text-muted-foreground hover:text-primary">
                 <FaSpotify className="h-5 w-5" />
                 <span className="sr-only">Spotify</span>
               </Link>
@@ -62,7 +62,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 border-t pt-8 text-center">
           <p className="text-xs text-muted-foreground">
-            &copy; {new Date().getFullYear()} Fish Hook. Derechos reservados.
+            &copy; {new Date().getFullYear()} The Fish Hook Band. Derechos reservados.
           </p>
         </div>
       </div>
