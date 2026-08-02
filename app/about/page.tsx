@@ -93,7 +93,7 @@ export default function AboutPage() {
                 className="relative h-[400px] md:h-[500px] w-full rounded-lg overflow-hidden order-1 md:order-2"
               >
                 <Image
-                  src="/fishhook_crew.jpg" // OPTIMIZAR ESTA IMAGEN
+                  src="/fishhook_crew.png" // OPTIMIZAR ESTA IMAGEN
                   alt="Los cuatro miembros de la banda Fish Hook posando juntos"
                   fill
                   className="object-cover"
